@@ -57,7 +57,7 @@ h1 {
     list-style: none;
     padding: 5px;
 }
-button {
+.button {
     width: 120px;
     height: 45px;
     background-image: linear-gradient(to right, hwb(212 1% 55%),  rgb(6, 135, 221));
